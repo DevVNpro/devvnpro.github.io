@@ -8,16 +8,18 @@ Word, puzzle, and educational games
 Interactive and engaging gameplay experiences
 We aim to create games that are fun, memorable, and accessible to everyone.
 
-🕹️ Our Games
+## 🕹️ Our Games
+
 Here are some of the games we've created:
 
-Game	Description	Platform
-Word Of Nature: Relax	A fun and challenging word puzzle game	Android
-More games coming soon! Stay tuned.
+| Game | Description | Platform |
+|------|------------|----------|
+| **Words of Nature: Relax** | A fun and challenging word puzzle game | Android |
+
+> More games coming soon! Stay tuned.
 
 💡 Our Mission
 "Making games that spark joy and creativity for everyone."
-
 We’re always exploring new ideas, technologies, and ways to push the boundaries of fun.
 
 🎨 Branding & Media
