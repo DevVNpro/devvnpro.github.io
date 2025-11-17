@@ -28,7 +28,6 @@ We believe in strong visuals and clean designs. All our game assets and branding
 ⚡ Support Us
 If you enjoy our games, please:
 
-⭐ Star our GitHub projects
 Share our games with friends
 Follow us on social media
 Thank you for supporting Me One Studio ! 💖
