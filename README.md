@@ -1,6 +1,4 @@
-#🎮 Me One Studio
-
-Welcome to Me One Studio, a creative game studio passionate about making fun, engaging, and innovative games for players around the world!
+Welcome to Me One Studio🎮, a creative game studio passionate about making fun, engaging, and innovative games for players around the world!
 
 🚀 About Us
 At Me One Studio, we believe in turning ideas into immersive experiences. Our team focuses on:
